@@ -5,11 +5,11 @@ import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import App from './App';
 import {BrowserRouter} from 'react-router-dom';
-
+const base_url='https://doctor-appointment-backend-k5sl.onrender.com/doctors'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-     <BrowserRouter>
+     <BrowserRouter basename={process.env.base_url}>
    <App />
    </BrowserRouter>
   </React.StrictMode>
