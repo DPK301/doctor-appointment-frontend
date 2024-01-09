@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/doctor-appointment-frontend/static/css/main.4b675664.css",
-    "main.js": "/doctor-appointment-frontend/static/js/main.b95c0163.js",
+    "main.js": "/doctor-appointment-frontend/static/js/main.dc7fd783.js",
     "static/media/fa-solid-900.ttf": "/doctor-appointment-frontend/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/doctor-appointment-frontend/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
     "static/media/fa-solid-900.woff2": "/doctor-appointment-frontend/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/doctor-appointment-frontend/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/doctor-appointment-frontend/index.html",
     "main.4b675664.css.map": "/doctor-appointment-frontend/static/css/main.4b675664.css.map",
-    "main.b95c0163.js.map": "/doctor-appointment-frontend/static/js/main.b95c0163.js.map"
+    "main.dc7fd783.js.map": "/doctor-appointment-frontend/static/js/main.dc7fd783.js.map"
   },
   "entrypoints": [
     "static/css/main.4b675664.css",
-    "static/js/main.b95c0163.js"
+    "static/js/main.dc7fd783.js"
   ]
 }
